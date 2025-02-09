@@ -1,6 +1,6 @@
 ## Mytschek
 
-This is a one-page teaser website for my personal business, built with React + Vite, JavaScript, and CSS.
+This is a one-page teaser website for my personal business, built with React + Vite, JavaScript, and Tailwind CSS.
 
 ## Project Screen Shot
 
