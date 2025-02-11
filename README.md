@@ -4,7 +4,7 @@ This is a one-page teaser website for my personal business, built with React + V
 
 ## Project Screen Shot
 
-![Alt text](./assets/screenshots/mytschek.png?raw=true)
+![Alt text](./assets/screenshots/desktop.png?raw=true)
 
 ## Installation and Setup Instructions
 

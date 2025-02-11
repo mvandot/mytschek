@@ -21,7 +21,7 @@ export const Footer = () => {
                     <div class="flex flex-row space-x-8 items-center justify-between">
                     
                     {/* facebook */}
-                    <a className="[&>svg]:h-5 [&>svg]:w-5" href="/">
+                    <a className="[&>svg]:h-5 [&>svg]:w-5" href="https://www.facebook.com/profile.php?id=61572969814292">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="currentColor"
@@ -31,7 +31,7 @@ export const Footer = () => {
                         </svg>
                     </a>
                         {/* instagram */}
-                        <a className="[&>svg]:h-5 [&>svg]:w-5" href="/">
+                        <a className="[&>svg]:h-5 [&>svg]:w-5" href="https://www.instagram.com/mytschek/">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="currentColor"
@@ -43,7 +43,7 @@ export const Footer = () => {
 
 
                         {/* pinterest */}
-                        <a className="[&>svg]:h-5 [&>svg]:w-5" href="">
+                        <a className="[&>svg]:h-5 [&>svg]:w-5" href="https://www.pinterest.com/mytschek/">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="currentColor"
