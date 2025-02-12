@@ -5,7 +5,7 @@ export const Footer = () => {
     <div class="w-full min-h-screen flex items-center justify-center bg-black mt-15">
         <div class="md:w-2/3 w-full px-4 text-white flex flex-col">
             <div class="w-full text-7xl font-bold">
-                <h1 class="w-full md:w-2/3">Get in touch</h1>
+                <h2 class="w-full md:w-2/3">Get in touch</h2>
             </div>
             <div class="flex mt-8 flex-col md:flex-row md:justify-between">
                 <p class="w-full md:w-2/3 text-gray-400"> </p>
