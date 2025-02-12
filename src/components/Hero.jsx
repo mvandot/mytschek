@@ -15,13 +15,3 @@ export const Hero = () => {
     </section>
   )
 }
-
-
-
-
-// bg-[#0D5EBA]
-// text-[#FFFFFF]
-
-// slate-500
-// bg-linear-to-r from-[#F3E8EB] to-[#F3E8FC]
-// shadow-sm focus:shadow
