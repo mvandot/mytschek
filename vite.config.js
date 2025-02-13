@@ -9,7 +9,9 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-    Sitemap(),
+    Sitemap({
+      hostname: 'https://wwww.mytschek.com'
+    }),
   ],
   css: {
     modules: {
