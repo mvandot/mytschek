@@ -23,13 +23,13 @@ export const Nav = () => {
             {/* menu in large screen */}
             <ul className="hidden md:flex items-center space-x-5 font-extralight font-x1">
               <li>
-                <a href="#about">quality</a>
+                <a href="#about">cotton</a>
               </li>
               <li>
-                <a href="#about">design</a>
+                <a href="#about">t-shirts</a>
               </li>
               <li>
-                <a href="#about">models</a>
+                <a href="#about">styles</a>
               </li>
             </ul>
 
@@ -45,13 +45,13 @@ export const Nav = () => {
         <div className="flex flex-col justify-end space-y-5 right-0 duration-150 w-screen pb-10 -top-full md:hidden">
           <ul className="font-extralight font-x1">
             <li className="flex justify-center w-full py-4">
-              <a href="#about">quality</a>
+              <a href="#about">cotton</a>
             </li>
             <li className="flex justify-center w-full py-4">
-              <a href="#about">design</a>
+              <a href="#about">t-shirts</a>
             </li>
             <li className="flex justify-center w-full py-4">
-              <a href="#about">models</a>
+              <a href="#about">styles</a>
             </li>
           </ul>
         </div>

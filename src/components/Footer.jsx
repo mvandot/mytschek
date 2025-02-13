@@ -15,9 +15,9 @@ export const Footer = () => {
                     <div class="">
                         <a className='text-white text-xl' href='#'>mytschek</a>
                     </div>
-                    <a href="#about" class="hidden md:block cursor-pointer text-gray-600 hover:text-white uppercase">quality</a>
-                    <a href="#about" class="hidden md:block cursor-pointer text-gray-600 hover:text-white uppercase">design</a>
-                    <a href="#about" class="hidden md:block cursor-pointer text-gray-600 hover:text-white uppercase">models</a>
+                    <a href="#about" class="hidden md:block cursor-pointer text-gray-600 hover:text-white uppercase">cotton</a>
+                    <a href="#about" class="hidden md:block cursor-pointer text-gray-600 hover:text-white uppercase">t-shirts</a>
+                    <a href="#about" class="hidden md:block cursor-pointer text-gray-600 hover:text-white uppercase">styles</a>
                     <div class="flex flex-row space-x-8 items-center justify-between">
                     
                     {/* facebook */}
